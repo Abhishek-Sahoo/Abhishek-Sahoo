@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek-Sahoo
 - 👀 I’m interested in Front-end-development
-- 🌱 I’m currently learning MySQL, JavaScript
+- 🌱 I’m currently learning ChatBot development. 
 - 📫 You can reach me .. Email:sahooabhishek2202@gmail.com
 
 <!---
