@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Abhishek-Sahoo   
-- Pursuing B.Tech. at Dept. of Computer Science Engineering, GIET University, Gunupur, Odisha, India.  
+- 🌱 Pursuing B.Tech. at Dept. of Computer Science Engineering, GIET University, Gunupur, Odisha, India.  
 - Open to work as Front-end-developer.
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently learning ChatBot development. 
 - 📫 You can reach me .. Email:sahooabhishek2202@gmail.com
 
 <!---
